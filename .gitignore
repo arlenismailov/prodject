@@ -1,7 +1,9 @@
 __pyceche__/
 .venv/
+
 .idea/
+.env
+
 *.sqlite3/
 *.db
 *.pyc
-.env
